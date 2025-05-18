@@ -1,4 +1,4 @@
-# hybrid-quantum-classical-algorithm-implementation-for-entropy-calculation
+# hybrid-quantum-classical-algorithm
 
 This is toy example of the algorithm proposed in the paper [1], a quantum classical hybrid algorithm for entropy estimation
 
